@@ -1,6 +1,6 @@
 # Augmentation Matters: A Mix-Paste Method for X-Ray Prohibited Item Detection under Noisy Annotations
 
-This repository contains the source code for the paper *"Augmentation Matters: A Mix-Paste Method for X-Ray Prohibited Item Detection under Noisy Annotations."* The Mix-Paste method enhances detection performance, particularly when dealing with noisy annotations in X-ray images.
+This repository contains the source code for the paper *"Augmentation Matters: A Mix-Paste Method for X-Ray Prohibited Item Detection under Noisy Annotations."* 
 
 ## Environment Setup
 
