@@ -225,7 +225,7 @@ lr_config = dict(
     warmup_iters=5000,
     warmup_ratio=0.001,
     step=[17, 21])
-runner = dict(type='EpochBasedRunner', max_epochs=32)
+runner = dict(type='EpochBasedRunner', max_epochs=24)
 checkpoint_config = dict(interval=1)
 log_config = dict(interval=50, hooks=[dict(type='TextLoggerHook')])
 custom_hooks = [dict(type='NumClassCheckHook')]
